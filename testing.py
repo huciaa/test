@@ -1,5 +1,3 @@
 print("test")
 
-c2 main
-
-c3 main
+print("for_pr")
